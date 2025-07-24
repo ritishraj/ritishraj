@@ -1,3 +1,4 @@
+<img src="https://github.com/ritishraj/ritishraj/blob/main/banner.png" alt="Banner" width="100%" />
 ## Hi there 👋 I'm Ritish Raj
 
 🎓 I’m a final year B.Tech CSE student at Gurukul Kangri Vishwavidyalaya, Haridwar.  
