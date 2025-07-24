@@ -26,7 +26,7 @@
 
 ### 📈 GitHub Stats
 ![Ritish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritishraj&show_icons=true&theme=radical&hide_border=true)
-
+Reach me: [ritishraj](https://www.linkedin.com/in/ritish-raj-425998268/) | ✉️ ritishbarnwal2004@gmail.com  
 ---
 
 ### 📫 Let's Connect!
