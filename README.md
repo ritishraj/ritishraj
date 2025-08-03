@@ -14,7 +14,7 @@
 - ⚙️ React.js | Node.js | Express.js | Flask
 - 📊 Python | C | C++ | Pandas | NumPy | scikit-learn
 - 📦 Git | GitHub | VS Code | Postman | MongoDB
-- 📚 Currently Learning: Reinforcement Learning, Digit DP, Firebase Auth
+- 📚 Currently Learning: Reinforcement Learning, ML Digit DP, Firebase Auth
 
 ---
 
