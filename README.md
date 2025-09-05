@@ -2,12 +2,11 @@
 
 Hi there 👋 I'm Ritish Raj
 
-🎓 I’m a final year B.Tech CSE student at Gurukul Kangri Vishwavidyalaya, Haridwar.  
-💻 Passionate about **Web Development**, **AI/ML**, and solving **DSA problems**.  
-📈 Currently doing an internship as an **Equity Analyst at Alpha Learning**.  
-🧠 Learning Machine Learning (BCE-P730) | Working on Gesture-Controlled Puzzle Game  
-🚀 Open to collaborate on web apps, AI/ML projects, and automation tools.
-
+🎓 I’m a final-year B.Tech CSE student at Gurukul Kangri Vishwavidyalaya, Haridwar.
+💻 Passionate about Web Development, AI/ML, and solving DSA problems.
+📊 Currently interning as an Equity Analyst at Alpha Learning.
+🧠 Exploring Machine Learning (BCE-P730) and developing a Gesture-Controlled Puzzle Game.
+🚀 Open to collaborating on web applications, AI/ML projects, and automation tools.
 ---
 
 ### 🔧 Tech Stack & Tools
