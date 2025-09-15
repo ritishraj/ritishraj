@@ -8,7 +8,7 @@ Hi there 👋 I'm RITISH RAJ and Welcome to Our Profile.
 
 📊 Currently interning as an Equity Analyst at Alpha Learning.
 
-🧠 Exploring Machine Learning (BCE-P730) and developing a Gesture-Controlled Puzzle Game and make.
+🧠 Exploring Machine Learning (BCE-P730) and developing a Gesture-Controlled Puzzle Game and make real .
 
 🚀 Open to collaborating on web applications, AI/ML projects, and automation tools.
 
