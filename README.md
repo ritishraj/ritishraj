@@ -1,4 +1,4 @@
-<img width="300" height="80" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397" />
+<img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397" />
 
 Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.
 
