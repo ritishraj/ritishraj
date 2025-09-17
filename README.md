@@ -10,7 +10,7 @@ Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.
 
 🧠 Exploring Machine Learning (ML) (BCE-P730) and developing a Gesture-Controlled Puzzle Game and make real Project .
 
-🚀 Open to collaborating on web applications, AI/ML projects, and automation tools.
+🚀 Open to collaborating on Web applications, AI/ML projects, and automation tools.
 
 ---
 
