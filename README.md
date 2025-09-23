@@ -15,7 +15,7 @@ Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.
 ---
 
 ### 🔧 Tech Stack & Tools
-- 🌐 HTML | CSS | JavaScript | Tailwind | Bootstrap
+- 🌐 HTML | CSS | JavaScript | Tailwind | Bootstrap-
 - ⚙️ React.js | Node.js | Express.js | Flask-
 - 📊 Python | C | C++ | Pandas | NumPy | scikit-learn
 - 📦 Git | GitHub | VS Code | Postman | MongoDB
