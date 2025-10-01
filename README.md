@@ -24,7 +24,7 @@ Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.
 ---
 
 ### 📌 Ongoing Projects
-- 🧩 Gesture Controlled Puzzle Game (Webcam + AI)
+- 🧩 Gesture Controlled Puzzle Game (Webcam + AI) 
 - ☁️ Weather App using Flask & OpenWeatherMap API
 - 📱 Social Media Mini App (Image posts, Likes, Comments)
 
