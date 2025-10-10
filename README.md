@@ -28,7 +28,7 @@
 <hr>
 <br>
 Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.
-
+<br>
 🎓 I’m a final-year B.Tech CSE student at Gkv (Gurukul Kangri Vishwavidyalaya, Haridwar)
 
 💻 Passionate about Web Development, AI/ML, and solving Moderate DSA problems.
