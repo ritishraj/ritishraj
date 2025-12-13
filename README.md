@@ -1,68 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ritish-raj/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ritish_barnwal/?next=%2F">
-    <img src="https://img.shields.io/badge/Instagram-brown?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://x.com/RitishBarnwal">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# 💫 About Me:
+<br>LinkedIn Badge Instagram Badge Twitter Badge<br>Visitors Count<br><br><br><br><br>Hello 😊<br><br><br><br>Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.<br>🎓 I’m a final-year B.Tech CSE student at Gkv (Gurukul Kangri Vishwavidyalaya, Haridwar)<br>💻 Passionate about Web Development, AI/ML, and solving Moderate DSA problems.<br><br>📊 Currently interning as an Equity Analyst at Alpha Learning.<br><br>🧠 Exploring Machine Learning (ML) (BCE-P730) and developing a Gesture-Controlled Puzzle Game and make real Project .<br><br>🚀 Open to collaborating on Web applications, AI/ML projects, and automation tools.<br><br>🔧 Tech Stack & Tools<br>🌐 HTML | CSS | JavaScript | Tailwind | Bootstrap-<br>⚙️ React.js | Node.js | Express.js | Flask-<br>📊 Python | C | C++ | Pandas | NumPy | scikit-learn-<br>📦 Git | GitHub | VS Code | Postman | MongoDB<br>📚 Currently Learning: Reinforcement Learning, ML Digit DP, Firebase Auth<br>📌 Ongoing Projects<br>🧩 Gesture Controlled Puzzle Game (Webcam + AI)<br>☁️ Weather App using Flask & OpenWeatherMap API<br>📱 Social Media Mini App (Image posts, Likes, Comments)<br>📈 GitHub S<br>Ritish's GitHub stats Reach me: ritishraj | ✉️ ritishbarnwal2004@gmail.com<br>📫 Let's Connect!<br>🔗 LinkedIn<br>💻 GitHub<br>🧠 LeetCode
 
-<div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ritishraj&color=blueviolet" /></p> 
-</div>
-<br>
-<h5 align="center">
-  Hello 😊
-</h5>
-<br>
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lxomthW6rkoxz5ruVezhA4P4scLqkKxkAnWGKnOeONQkqgx-oJfYdLg&s" width="500" height="300">
-</div>
-<hr>
-<br>
-Hi there 👋 I'm RITISH RAJ and Welcome to Our Github Profile.
-<hr>
-🎓 I’m a final-year B.Tech CSE student at Gkv (Gurukul Kangri Vishwavidyalaya, Haridwar)
 
-💻 Passionate about Web Development, AI/ML, and solving Moderate DSA problems.
-
-📊 Currently interning as an Equity Analyst at Alpha Learning.
-
-🧠 Exploring Machine Learning (ML) (BCE-P730) and developing a Gesture-Controlled Puzzle Game and make real Project .
-
-🚀 Open to collaborating on Web applications, AI/ML projects, and automation tools.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ritishraj &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ritishraj &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritishraj &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ritishraj &icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔧 Tech Stack & Tools
-- 🌐 HTML | CSS | JavaScript | Tailwind | Bootstrap-
-- ⚙️ React.js | Node.js | Express.js | Flask-
-- 📊 Python | C | C++ | Pandas | NumPy | scikit-learn-
-- 📦 Git | GitHub | VS Code | Postman | MongoDB
-- 📚 Currently Learning: Reinforcement Learning, ML Digit DP, Firebase Auth
-
----
-
-### 📌 Ongoing Projects
-- 🧩 Gesture Controlled Puzzle Game (Webcam + AI) 
-- ☁️ Weather App using Flask & OpenWeatherMap API
-- 📱 Social Media Mini App (Image posts, Likes, Comments)
-
----
-
-### 📈 GitHub S
-![Ritish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritishraj&show_icons=true&theme=radical&hide_border=true)
-Reach me: [ritishraj](https://www.linkedin.com/in/ritish-raj-425998268/) | ✉️ ritishbarnwal2004@gmail.com  
----
-
-### 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ritish-raj-425998268/)
-- 💻 [GitHub](https://github.com/ritishraj)
-- 🧠 [LeetCode](https://leetcode.com/u/ritishraj/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
