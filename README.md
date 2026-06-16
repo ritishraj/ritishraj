@@ -8,7 +8,7 @@ Final-year Computer Science Engineering student passionate about backend develop
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE student at Gurukula Kangri Vishwavidyalaya, Haridwar
+- 🎓 B.Tech CSE student at Gurukula Kangri Vishwavidyalaya, Haridwar june 2026
 - 💡 Interested in Backend Development and Scalable Systems
 - 🔐 Built secure REST APIs using Spring Security & JWT
 - 🗄️ Experienced with MySQL, MongoDB, JPA, and Hibernate
