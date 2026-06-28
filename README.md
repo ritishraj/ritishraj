@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ritish Raj
 
-💻 Java Backend Developer | Spring Boot Enthusiast | Problem Solver
+💻 Java Backend Developer | Spring Boot Enthusiast (as fresher) | Problem Solver
 
 Final-year Computer Science Engineering student passionate about backend development, scalable APIs, and secure web applications. Skilled in Java, Spring Boot, REST APIs, MySQL, MongoDB, and JWT Authentication.
 
