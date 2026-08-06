@@ -23,6 +23,7 @@ Final-year Computer Science Engineering student passionate about backend develop
 ### Languages
 - Java
 - SQL
+- Hibernate
 - JavaScript
 - Python (Basic)
 
