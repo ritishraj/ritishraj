@@ -46,6 +46,7 @@ Final-year Computer Science Engineering student passionate about backend develop
 - Maven
 - Postman
 - VS Code
+- Docker
 
 ---
 
