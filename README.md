@@ -27,16 +27,10 @@ I enjoy building reliable backend systems, solving complex problems, and continu
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- SQL
-- Docker
-- Hibernate
-- JavaScript
-- Python (Basic)
+- Java - SQL - Docker - Hibernate - JavaScript - Python (Basic)
 
 ### Backend Development
-- Spring Boot
-- REST APIs
+- Spring Boot - REST APIs
 - Spring Security
 - JWT Authentication
 - Hibernate
