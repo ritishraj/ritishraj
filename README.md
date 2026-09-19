@@ -69,9 +69,14 @@ I enjoy building reliable backend systems, solving complex problems, and continu
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![Ritish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritishraj&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ritishraj&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Ritish Raj's GitHub Statistics"
+  />
+</p>
 
 ---
 
