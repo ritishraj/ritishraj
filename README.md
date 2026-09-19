@@ -78,6 +78,15 @@ I enjoy building reliable backend systems, solving complex problems, and continu
   />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ritishraj&theme=tokyonight&hide_border=true"
+    alt="Ritish Raj's GitHub Streak"
+  />
+</p>
+
 ---
 
 ## 🔥 Most Used Languages
