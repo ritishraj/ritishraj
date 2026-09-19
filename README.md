@@ -89,9 +89,14 @@ I enjoy building reliable backend systems, solving complex problems, and continu
 
 ---
 
-## 🔥 Most Used Languages
+## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritishraj&layout=compact&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritishraj&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Ritish Raj's Most Used Languages"
+  />
+</p>
 
 ---
 
