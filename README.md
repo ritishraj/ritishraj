@@ -39,8 +39,8 @@ I enjoy building reliable backend systems, solving complex problems, and continu
 ### Databases
 - MySQL
 - MongoDB
+Tools & Platforms: Git | GitHub | Maven | Postman | VS Code | Docker
 
-Tools & Platforms: Git, GitHub, Maven, Postman, VS Code, Docker — used for version control, build management, API testing, development, and containerization.
 
 ---
 
