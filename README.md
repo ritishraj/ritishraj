@@ -46,7 +46,7 @@ Tools & Platforms: Git | GitHub | Maven | Postman | VS Code | Docker
 
 ## 📌 Featured Projects
 
-### 🔹 HR Employee Management System
+### 🔹 HR Employee Management System..
 - Developed secure REST APIs using Spring Boot and MongoDB
 - Implemented JWT Authentication and Role-Based Authorization
 - Followed layered architecture for scalable backend development
