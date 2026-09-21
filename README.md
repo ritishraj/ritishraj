@@ -97,8 +97,7 @@ Tools & Platforms: Git | GitHub | Maven | Postman | VS Code | Docker
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/ritish-raj
-- 💻 GitHub: https://github.com/ritishraj
-- 🧠 LeetCode: https://leetcode.com/
+- 💻 GitHub: https://github.com/ritishraj       - 🧠 LeetCode: https://leetcode.com/
 - 📧 Email: ritishbarnwal2004@gmail.com
 
 # 💻 Tech Stack:
