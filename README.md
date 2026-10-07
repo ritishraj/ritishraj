@@ -42,7 +42,7 @@ I enjoy building reliable backend systems, solving complex problems, and continu
 Tools & Platforms: Git | GitHub | Maven | Postman | VS Code | Docker
 
 ### Cloud
-- AWS
+- AWS  :- I’m a friendly and easy-going person who enjoys working with AWS and backend technologies. I like learning new things, solving problems, and collaborating with my team.
 - Microsoft Azure
 
 ---
