@@ -41,6 +41,8 @@ I enjoy building reliable backend systems, solving complex problems, and continu
 - MongoDB
 Tools & Platforms: Git | GitHub | Maven | Postman | VS Code | Docker
 
+### Databases
+- AWS
 
 ---
 
