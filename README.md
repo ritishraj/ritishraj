@@ -43,6 +43,7 @@ Tools & Platforms: Git | GitHub | Maven | Postman | VS Code | Docker
 
 ### Cloud
 - AWS
+- Microsoft Azure
 
 ---
 
